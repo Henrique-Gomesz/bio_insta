@@ -1,0 +1,21 @@
+*{
+  font-family: 'Silkscreen', cursive;
+}
+body {
+  background-image: url('gif.gif');
+  display: flex;
+  justify-content: center;
+  align-content: center;
+  margin: 50px;
+
+   
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  /* Máximo da largura da imagem */
+
+  
+  background-color: rgb(44, 44, 44);
+  
+ 
+ 
+}
