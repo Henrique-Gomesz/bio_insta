@@ -1,12 +1,12 @@
-.img{
-    border-color: rgb(255, 255, 255);
-    border-radius: 4%;
-    background-color: black;
-    border-style: solid;
-    height: 165px;
-    
+.img {
+  border-color: rgb(255, 255, 255);
+  border-radius: 4%;
+  background-color: black;
+  border-style: solid;
+  max-height: 300px;
+  max-width: 300px;
 }
 
-.container{
-    padding-top: 1em;
+.container {
+  padding-top: 1em;
 }
